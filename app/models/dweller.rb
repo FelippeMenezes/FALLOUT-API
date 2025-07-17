@@ -1,0 +1,2 @@
+class Dweller < ApplicationRecord
+end
